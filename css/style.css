@@ -23,20 +23,13 @@ body{
 }
 
 
-@media only screen and (max-width: 1200px){
+@media only screen and (max-width: 80px){
     body{
         background-color: gray;
     }
 
 }
 
-
-/* 
-@media(min-width: 1200px){
-    body{
-        background-color: rgb(255,255,255);
-    }
-} */
 
 @media only screen and (max-width: 800px){
     #nav-bar{
